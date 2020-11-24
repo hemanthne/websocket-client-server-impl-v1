@@ -1,0 +1,23 @@
+{
+  "name": "websocket-client-server-impl-v1",
+  "version": "1.0.0",
+  "description": "Client and server implementation of web socket",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hemanthne/websocket-client-server-impl-v1.git"
+  },
+  "author": "Hemanth Ne",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hemanthne/websocket-client-server-impl-v1/issues"
+  },
+  "homepage": "https://github.com/hemanthne/websocket-client-server-impl-v1#readme",
+  "dependencies": {
+    "ws": "^7.4.0"
+  }
+}
